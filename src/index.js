@@ -31,3 +31,5 @@ module.exports = function check(str, bracketsConfig) {
     return testString.length === 0;
   }
 }
+
+console.clear();
